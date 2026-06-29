@@ -1,0 +1,17 @@
+{
+    "name": "F0:79:47:79:F2:66",
+    "address": "F0:79:47:79:F2:66",
+    "rssi": -81,
+    "manufacturer_data": {
+        "2355": "00000101000405571d028015"
+    },
+    "service_data": {},
+    "service_uuids": [
+        "0000fe51-0000-1000-8000-00805f9b34fb"
+    ],
+    "source": "FC:E8:C0:E1:94:86",
+    "connectable": true,
+    "time": 1782726007.9564116,
+    "tx_power": null,
+    "raw": "020106030251fe0fff330900000101000405571d028015"
+}

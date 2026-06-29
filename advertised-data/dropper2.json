@@ -1,0 +1,17 @@
+{
+    "name": "SRAM 1403340154",
+    "address": "DE:68:BA:51:93:37",
+    "rssi": -91,
+    "manufacturer_data": {
+        "2355": "00000101000405271d028012"
+    },
+    "service_data": {},
+    "service_uuids": [
+        "0000fe51-0000-1000-8000-00805f9b34fb"
+    ],
+    "source": "FC:E8:C0:E1:94:86",
+    "connectable": true,
+    "time": 1782725259.3875005,
+    "tx_power": -127,
+    "raw": null
+}

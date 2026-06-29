@@ -1,0 +1,25 @@
+{
+  "config": {
+    "flow_title": "SRAM AXS",
+    "step": {
+      "bluetooth_confirm": {
+        "description": "A SRAM AXS component was detected ({address}). Select the component type.",
+        "title": "Set up SRAM AXS component",
+        "data": {
+          "device_type": "Component type"
+        }
+      },
+      "user": {
+        "data": {
+          "address": "Device"
+        },
+        "title": "Select SRAM AXS device"
+      }
+    },
+    "abort": {
+      "already_configured": "Device is already configured",
+      "no_devices_found": "No SRAM AXS devices found nearby",
+      "not_supported": "This device is not supported"
+    }
+  }
+}
