@@ -110,7 +110,7 @@ class SramAxsConfigFlow(ConfigFlow, domain=DOMAIN):
                             title=parsed.friendly_name,
                             data={
                                 "address": parsed.address,
-                                "device_type_byte": parsed.device_type_byte,
+                                "variant": parsed.variant,
                                 "device_type": parsed.device_type,
                             },
                         )
