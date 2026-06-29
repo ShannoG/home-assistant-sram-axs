@@ -15,7 +15,7 @@ Any SRAM AXS component that advertises with service UUID `0000fe51-0000-1000-800
 - Rear Derailleur (Eagle AXS, Red AXS)
 - Dropper Post (Reverb AXS)
 
-Others (front derailleur, shifter pods, brake levers) should work — the advertisement format is consistent across the AXS range.
+Others (front derailleur, shifter pods, brake levers) should work — provided the advertisement format is consistent across the AXS range.
 
 ## Installation
 
